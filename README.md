@@ -38,7 +38,7 @@ Generate study recommendations using AI-based insights
 🛠️ Installation
 
 Download the APK file:
-👉 LearnLytics.apk
+👉 [LearnLytics.apk](https://github.com/anuragpatil1729/PBL_SY1_G18/releases/tag/v1.0.0)
 
 Transfer it to your Android device.
 
