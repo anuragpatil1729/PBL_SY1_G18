@@ -19,7 +19,7 @@ LearnLytics is an AI-driven mobile application designed to help students improve
 
 Frontend: Flutter / Android
 
-Backend: Firebase / Python Flask API
+Backend: Firebase / Python Flask API / Supabase
 
 Machine Learning: Logistic Regression, SVM, and Recommendation Models
 
